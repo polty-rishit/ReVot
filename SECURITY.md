@@ -21,5 +21,5 @@ Follow password best practices, such as using strong, unique passwords for each 
 Regularly update your dependencies to the latest versions.
 
 # Acknowledgements
-We appreciate contributions from the community and researchers who help us improve the security of Revot. Thank you for keeping the platform secure for everyone!
+We appreciate contributions from this community and researchers who help us improve the security of Revot. Thank you for keeping the platform secure for everyone!
 
